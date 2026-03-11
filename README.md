@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.jpeg" alt="Linux at 2 AM" width="600">
-</p>
+<img src="assets/banner.jpeg" alt="Linux at 2 AM" width="100%">
 
 # system_perf
 
