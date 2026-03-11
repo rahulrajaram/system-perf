@@ -1,0 +1,10 @@
+# Binary packages
+*.deb
+
+# MCP memory database (session-local)
+.haake-data/
+
+# Editor and OS artifacts
+*.swp
+*~
+.DS_Store
