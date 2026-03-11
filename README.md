@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Linux at 2 AM" width="600">
+</p>
+
 # system_perf
 
 Diagnostic and fix scripts for a Debian hybrid GPU laptop (Intel UHD + NVIDIA RTX 4060).
